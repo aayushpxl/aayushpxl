@@ -1,5 +1,5 @@
 ## Hi there 👋
-prev id got banned
+prev account got banned
 
 <!--
 **aayushpxl/aayushpxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
